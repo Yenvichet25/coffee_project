@@ -144,7 +144,7 @@ _listViewMenu() {
         return Padding(
           padding: const EdgeInsets.all(0),
           child: Container(
-            width: 200,
+            width: 400,
             child: Stack(
               children: <Widget>[
                 Center(
